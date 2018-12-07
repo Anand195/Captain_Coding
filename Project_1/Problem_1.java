@@ -37,3 +37,5 @@ public class Problem_1 {
         }
     }
 }
+
+//This logic pass all the test cases located on HackerRank.com
