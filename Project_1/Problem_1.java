@@ -37,5 +37,5 @@ public class Problem_1 {
         }
     }
 }
-
+//Time complexity O(n)
 //This logic pass all the test cases located on HackerRank.com
